@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZmbSlEDcLXwysfCVXhjBB76yh6fi4REdidPC6pyeqaMjNzzQibJGPcZbpBTNUcVngVsJrJN+GRYIgFqllN+xIA==",
+  "success": true,
+  "projectFilePath": "D:\\New folder\\cs\\Anderco_Tibi_Lab12\\Anderco_Tibi_Lab12\\Anderco_Tibi_Lab12\\Anderco_Tibi_Lab12.iOS\\Anderco_Tibi_Lab12.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}
