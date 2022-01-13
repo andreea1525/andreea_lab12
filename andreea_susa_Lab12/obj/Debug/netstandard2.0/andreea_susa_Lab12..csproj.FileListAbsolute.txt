@@ -1,0 +1,17 @@
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.csproj.AssemblyReference.cache
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\ListEntryPage.xaml.g.cs
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\ListPage.xaml.g.cs
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.AssemblyInfoInputs.cache
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.AssemblyInfo.cs
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.csproj.CoreCompileInputs.cache
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\bin\Debug\netstandard2.0\Anderco_Tibi_Lab12.deps.json
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\bin\Debug\netstandard2.0\Anderco_Tibi_Lab12.dll
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\bin\Debug\netstandard2.0\ref\Anderco_Tibi_Lab12.dll
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\bin\Debug\netstandard2.0\Anderco_Tibi_Lab12.pdb
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\XamlC.stamp
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.dll
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\ref\Anderco_Tibi_Lab12.dll
+D:\New folder\cs\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\Anderco_Tibi_Lab12\obj\Debug\netstandard2.0\Anderco_Tibi_Lab12.pdb
